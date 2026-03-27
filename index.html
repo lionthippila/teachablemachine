@@ -137,7 +137,7 @@
             maxPredictions = model.getTotalClasses();
 
             const size = 200;
-            const flip = false; // 🟢 ปรับเป็น false เพื่อไม่ให้กล้องสลับซ้าย-ขวา
+            const flip = true; 
             webcam = new tmPose.Webcam(size, size, flip);
             await webcam.setup();
             await webcam.play();

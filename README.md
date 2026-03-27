@@ -43,4 +43,4 @@
 เมื่อ ESP32 ได้รับข้อความ ให้นำข้อความนั้นไปสร้างเงื่อนไข `if-else` เพื่อสั่งงาน Motor Driver ต่อไป
 
 ---
-*Developed with JavaScript, TensorFlow.js, and MQTT.js*
+*Developed with JavaScript, TensorFlow.js, and MQTT.js* 
